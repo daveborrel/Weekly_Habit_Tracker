@@ -1,0 +1,23 @@
+{
+    "name": "My Habit Manager",
+    "listOfHabits": [
+        {
+            "duration": 0,
+            "trackMinutes": false,
+            "habitName": "H1",
+            "daysOfWeek": [],
+            "isCompleted": false
+        },
+        {
+            "duration": 15,
+            "trackMinutes": true,
+            "habitName": "H2",
+            "daysOfWeek": [
+                "MONDAY",
+                "WEDNESDAY",
+                "FRIDAY"
+            ],
+            "isCompleted": false
+        }
+    ]
+}

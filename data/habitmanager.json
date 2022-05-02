@@ -1,0 +1,37 @@
+{
+    "name": "Dave's Habit Manager",
+    "listOfHabits": [
+        {
+            "duration": 15,
+            "trackMinutes": true,
+            "habitName": "Reading",
+            "daysOfWeek": [
+                "MONDAY",
+                "WEDNESDAY",
+                "FRIDAY"
+            ],
+            "isCompleted": false
+        },
+        {
+            "duration": 60,
+            "trackMinutes": true,
+            "habitName": "Running",
+            "daysOfWeek": [
+                "TUESDAY",
+                "THURSDAY"
+            ],
+            "isCompleted": false
+        },
+        {
+            "duration": 15,
+            "trackMinutes": true,
+            "habitName": "Meditation",
+            "daysOfWeek": [
+                "MONDAY",
+                "SATURDAY",
+                "SUNDAY"
+            ],
+            "isCompleted": false
+        }
+    ]
+}
